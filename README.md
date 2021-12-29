@@ -1,6 +1,11 @@
 # discord-bot-index.hr
 (NON) OFFICIAL INDEX.HR BOT! https://www.index-bot.gq/ version: 3.5 By: Juraj Z # 8164
 
+ - link do homepagea: https://www.index-bot.gq/  
+                      https://sites.google.com/view/index-bot/pocetna
+                      https://bit.ly/index-bot
+                      
+ - link do editora: https://sites.google.com/d/1pO9K-N_MH3CynWdKT4H1kMMBeEVpNfZL/p/1iosVH_uLpTayF3zBpXkbxxTMxnF-RCqR/edit
 
 KOMANDE:
 
