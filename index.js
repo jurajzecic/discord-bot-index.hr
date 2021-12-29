@@ -58,10 +58,11 @@ bot.once('ready', () => {
             `Dobro jutro uz kafu`,
             `Dobro jutro uz cvece`,
             `!jutro`,
+            `Extra fm`,
         ]
         const status = statuses[Math.floor(Math.random() * statuses.length)]
         bot.user.setActivity(status, { type: "WATCHING"}) ///MOŽE SE STAVITI WATCHING, STREAMING ILI LISTENING
-    }, 3000) ///TO ZNAČI KADA ĆE BOT PROMJENITI STATUS. NPR. 1000 = 1 SEKUNDA!
+    }, 4000) ///TO ZNAČI KADA ĆE BOT PROMJENITI STATUS. NPR. 1000 = 1 SEKUNDA!
 })
 ///------------------------------------------------------------------------------------------------------------------------------
 const token = 'ODE0NjEyMTA5MDc3NTEyMjEz.YDgYpQ.9sKqOHUZGqGK_yOEQJZ5HwTU7j8';
@@ -1092,6 +1093,7 @@ bot.on('message', message => {
             .addField('ANTENA ZAGREB', '`!play https://bit.ly/antenaaa`')
             .addField('RADIO 101', '`!play https://bit.ly/radio-101`')
             .addField('ENTER ZAGREB', '`!play https://bit.ly/enter-zg`')
+            .addField('EXTRA FM', '`!play https://bit.ly/extra-fm`')
             message.reply(Embed);
         break;
     };  
