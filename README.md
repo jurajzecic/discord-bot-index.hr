@@ -26,4 +26,8 @@
 
 !verzija, !info, !pomoc, !pozovi_bota, !stranica
 
-Index.hr discord bot and site By: Juraj Z
+
+
+
+
+Index.hr discord bot and site By: Juraj Zečić
