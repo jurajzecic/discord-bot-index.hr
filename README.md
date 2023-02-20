@@ -1,5 +1,5 @@
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40zecic_juraj)](https://twitter.com/zecic_juraj)
-
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 # INDEX.HR DISCORD BOT
 
 (NE)SLUŽBENI INDEX.HR BOT! https://index-bot.eu5.org/ trenutna verzija: 3.5 By: Juraj Z # 8164
