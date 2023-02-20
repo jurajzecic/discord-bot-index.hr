@@ -4,6 +4,8 @@
 
  - link do homepagea: https://index-bot.eu5.org/
  
+ - link do muzike: https://github.com/jurajzecic/discord-bot-index.hr/tree/index.hr-muzika
+ 
 *KOMANDE:*
 
  - SLIKE:
