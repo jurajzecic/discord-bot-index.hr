@@ -1,5 +1,6 @@
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40zecic_juraj)](https://twitter.com/zecic_juraj)
-
+https://badgen.net/badge/icon/discord?icon=discord&label
+/github/branches/micromatch/micromatch
 
 # INDEX.HR DISCORD BOT
 
