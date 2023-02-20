@@ -1,9 +1,5 @@
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40zecic_juraj)](https://twitter.com/zecic_juraj)
 
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white](https://twitter.com/zecic_juraj))
-
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-
 
 # INDEX.HR DISCORD BOT
 
