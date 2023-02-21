@@ -1,5 +1,4 @@
-[![Download](https://poser.pugx.org/ali-irawan/xtra/d/total.svg)](https://github.com/jurajzecic/discord-bot-index.hr/archive/refs/heads/verzija_najnovija_(3.5).zip)
-
+[/discord/:serverId](https://img.shields.io/discord/756215790960771222)
 
 
 # INDEX.HR DISCORD BOT
