@@ -1,4 +1,9 @@
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40zecic_juraj)](https://twitter.com/zecic_juraj) [![Download](https://poser.pugx.org/ali-irawan/xtra/d/total.svg)](https://github.com/jurajzecic/discord-bot-index.hr/archive/refs/heads/verzija_najnovija_(3.5).zip)
+[![Download](https://poser.pugx.org/ali-irawan/xtra/d/total.svg)](https://github.com/jurajzecic/discord-bot-index.hr/archive/refs/heads/verzija_najnovija_(3.5).zip)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jurajzecic&layout=compact)
+
+
+[![Total Downloads](http://poser.pugx.org/jurajzecic/discord-bot-index.hr/downloads)](https://packagist.org/packages/phpunit/phpunit)
 
 # INDEX.HR DISCORD BOT
 
