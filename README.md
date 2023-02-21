@@ -2,8 +2,6 @@
 
 # INDEX.HR DISCORD BOT
 
-(NE)SLUŽBENI INDEX.HR BOT! https://index-bot.eu5.org/ trenutna verzija: 3.5 By: Juraj Z # 8164
-
  - link do homepagea: https://index-bot.eu5.org/
  
  - link do muzike: https://github.com/jurajzecic/discord-bot-index.hr/tree/index.hr-muzika
