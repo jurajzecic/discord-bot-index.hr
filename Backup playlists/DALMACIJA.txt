@@ -1,1 +1,0 @@
-http://shoutcast.pondi.hr:8000/;
