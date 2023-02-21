@@ -1,4 +1,4 @@
-![GitHub top language](https://img.shields.io/github/languages/top/jurajzecic/discord-bot-index.hr) ![GitHub language count](https://img.shields.io/github/languages/count/jurajzecic/discord-bot-index.hr) ![Discord](https://img.shields.io/discord/756215790960771222)
+![GitHub top language](https://img.shields.io/github/languages/top/jurajzecic/discord-bot-index.hr) ![GitHub language count](https://img.shields.io/github/languages/count/jurajzecic/discord-bot-index.hr) ![Discord](https://img.shields.io/discord/756215790960771222) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/jurajzecic/discord-bot-index.hr) ![GitHub repo file count](https://img.shields.io/github/directory-file-count/jurajzecic/discord-bot-index.hr) ![GitHub all releases](https://img.shields.io/github/downloads/jurajzecic/discord-bot-index.hr/total)
 
 # INDEX.HR DISCORD BOT
 
