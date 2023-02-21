@@ -5,6 +5,12 @@
  
 **[ KOD OD MUZIKE](https://github.com/jurajzecic/discord-bot-index.hr/tree/index.hr-muzika "MAPA DO MUZIKE")**
  
+ # 	PREUZIMANJE
+ 
+[index.hr-glavni.zip](https://github.com/jurajzecic/discord-bot-index.hr/archive/refs/heads/index.hr-glavni.zip "index.hr-glavni.zip")
+
+[index.hr-muzika.zip](https://github.com/jurajzecic/discord-bot-index.hr/archive/refs/heads/index.hr-muzika.zip "index.hr-muzika.zip")
+
  # KOMANDE
 
  - SLIKE:
