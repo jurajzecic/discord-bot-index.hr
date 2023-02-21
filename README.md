@@ -1,6 +1,4 @@
-  <a href="https://github.com/jurajzecic/homer/releases/latest/download/verzija_najnovija_(3.5).zip"><img
-  alt="Download homer static build"
-  src="https://github.com/jurajzecic/discord-bot-index.hr/archive/refs/heads/verzija_najnovija_(3.5).zip"></a>
+  <a href="https://github.com/jurajzecic/discord-bot-index.hr/archive/refs/heads/verzija_najnovija_(3.5).zip"><img alt="Download homer static build"src="https://img.shields.io/badge/Download-verzija_najnovija_(3.5).zip-orange"></a> 
   
   ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/jurajzecic/discord-bot-index.hr) ![GitHub repo file count](https://img.shields.io/github/directory-file-count/jurajzecic/discord-bot-index.hr) ![GitHub top language](https://img.shields.io/github/languages/top/jurajzecic/discord-bot-index.hr) ![GitHub language count](https://img.shields.io/github/languages/count/jurajzecic/discord-bot-index.hr) ![GitHub issues](https://img.shields.io/github/issues/jurajzecic/discord-bot-index.hr) ![Discord](https://img.shields.io/discord/756215790960771222)
 # INDEX.HR DISCORD BOT
