@@ -29,6 +29,8 @@
 
 # LINKOVI
 
+Discord bot invite: [[discord.com]](https://discord.com/oauth2/authorize?client_id=814612109077512213&scope=bot&permissions=8 "[discord.com]")
+
 Discord server: [[discord.gg]](https://discord.gg/VSHdKBRKZT "[discord.gg]")
 
 Instagram: [[instagram.com]](https://www.instagram.com/juraj.zecic/ "[instagram.com]")
