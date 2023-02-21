@@ -33,8 +33,6 @@
 
 
 
-[========]
-
 
 
 > Index.hr discord bot and site By: Juraj Zečić
