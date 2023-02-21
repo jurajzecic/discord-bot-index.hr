@@ -3,7 +3,7 @@
 
 **[STRANICA OD BOTA](HTTPS://INDEX-BOT.EU5.ORG/ "STRANICA")**
  
-**[ KOD OD MUZIKE](HTTPS://GITHUB.COM/JURAJZECIC/DISCORD-BOT-INDEX.HR/TREE/INDEX.HR-MUZIKA " MAPA DO MUZIKE")**
+**[ KOD OD MUZIKE](https://github.com/jurajzecic/discord-bot-index.hr/tree/index.hr-muzika "MAPA DO MUZIKE")**
  
  # KOMANDE
 
