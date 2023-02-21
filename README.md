@@ -1,4 +1,4 @@
-![GitHub top language](https://img.shields.io/github/languages/top/jurajzecic/discord-bot-index.hr)![GitHub language count](https://img.shields.io/github/languages/count/jurajzecic/discord-bot-index.hr)
+![GitHub top language](https://img.shields.io/github/languages/top/jurajzecic/discord-bot-index.hr) ![GitHub language count](https://img.shields.io/github/languages/count/jurajzecic/discord-bot-index.hr) ![Discord](https://img.shields.io/discord/756215790960771222)
 
 # INDEX.HR DISCORD BOT
 
