@@ -5,8 +5,7 @@
  
 **[ KOD OD MUZIKE](HTTPS://GITHUB.COM/JURAJZECIC/DISCORD-BOT-INDEX.HR/TREE/INDEX.HR-MUZIKA " MAPA DO MUZIKE")**
  
- 
- #KOMANDE
+ # KOMANDE
 
  - SLIKE:
 
@@ -28,7 +27,7 @@
 
 `!verzija, !info, !pomoc, !pozovi_bota, !stranica`
 
-#LINKOVI
+# LINKOVI
 
 Discord server: [[discord.gg]](https://discord.gg/VSHdKBRKZT "[discord.gg]")
 
