@@ -1,7 +1,7 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/jurajzecic/discord-bot-index.hr) ![GitHub repo file count](https://img.shields.io/github/directory-file-count/jurajzecic/discord-bot-index.hr) ![GitHub top language](https://img.shields.io/github/languages/top/jurajzecic/discord-bot-index.hr) ![GitHub language count](https://img.shields.io/github/languages/count/jurajzecic/discord-bot-index.hr) ![GitHub issues](https://img.shields.io/github/issues/jurajzecic/discord-bot-index.hr) ![Discord](https://img.shields.io/discord/756215790960771222)
 # INDEX.HR DISCORD BOT
 
-**[STRANICA OD BOTA]([HTTPS://INDEX-BOT.EU5.ORG](https://pronadji.online/discord-bot)/ "STRANICA")**
+**[STRANICA OD BOTA]([https://pronadji.online/discord-bot](https://pronadji.online/discord-bot)/ "STRANICA")**
  
 **[ KOD OD MUZIKE](https://github.com/jurajzecic/discord-bot-index.hr/tree/index.hr-muzika "MAPA DO MUZIKE")**
  
